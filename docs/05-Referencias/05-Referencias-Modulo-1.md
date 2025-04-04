@@ -1,4 +1,4 @@
-# Referencias
+# Referencias Módulo 1
 
 - ​[1] Masso  J et al., Diseño e Implementación de Bases de Datos desde una Perspectiva Práctica, 1a ed. Iniciativa Latinoamericana de Libros de Texto Abiertos (LATIn), 2014. [Online]. Available: https://mountainscholar.org/items/257337de-581b-4465-92fd-13cb550cfce2
 

@@ -30,3 +30,7 @@ Esta es una guía a través del curso de Bases de Datos 2 dictado por el docente
   - [4.5-Ejemplo-2:Aplicación-de-Gestión-de-Eventos-Comunitarios](docs/04-Herramienta-de-Modelado/4.5-Ejemplo-2.md)
 
 - [05-Referencias](docs/05-Referencias/05-Referencias.md)
+
+### Módulo 2
+
+- Ecosistema de MongoDB
